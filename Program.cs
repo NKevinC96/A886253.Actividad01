@@ -10,6 +10,9 @@ namespace A886253.Actividad01
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("Hola Mundo !!!");
+            Console.ReadKey();
         }
     }
 }
